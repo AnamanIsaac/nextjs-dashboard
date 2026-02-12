@@ -1,4 +1,4 @@
-# acmetutorial
+# nextjs-dashboard
 
 This project follows the Next.js App Router Course and contains the starter code for the dashboard application.
 
